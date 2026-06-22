@@ -1,0 +1,33 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [STM32F4_Mixed-Signal_Interface_Board.PrjPcb]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Copper_Signal_Top.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Copper_Signal_1.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Copper_Signal_2.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Copper_Signal_Bot.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Pads_Bot.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Pads_Top.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Legend_Top.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Soldermask_Top.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Soldermask_Bot.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Paste_Top.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Paste_Bot.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Keep-out.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Mechanical_1.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Top_Assembly.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Top_3D_Body.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Top_Courtyard.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Top_Component_Center.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Profile.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_NPTH_Drill.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_PTH_Drill.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Drawing_1.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB_Drillmap_1.gbr]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB.EXTREP]
+   Generated File[STM32F4_Mixed-Signal_Interface_Board_PCB.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 2:11:43 PM On 6/22/2026
